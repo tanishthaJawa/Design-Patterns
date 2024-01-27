@@ -6,5 +6,5 @@ Three types:
 
 # Creational
  ## Factory: 
- It allows us to get the object via third
+ It allows us to get the object via a static method instead of creating an object ourselves.
 [ https://github.com/iluwatar/java-design-patterns/tree/master/factory](url)
