@@ -9,6 +9,6 @@ Three types:
  It allows us to get the object via a static method instead of creating an object ourselves.
 [ https://github.com/iluwatar/java-design-patterns/tree/master/factory]
 
-# Buider
+## Builder
 Allows you to create an object which can have different parameters and constructors.
 [https://github.com/iluwatar/java-design-patterns/tree/master/builder]
